@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe.config
+C:\Users\User\source\repos\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe
+C:\Users\User\source\repos\Digital Diary\Digital Diary\bin\Debug\Digital Diary.pdb
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital Diary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Form1.resources
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Properties.Resources.resources
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital Diary.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital Diary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital Diary.exe
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital Diary.pdb
+C:\Users\User\source\repos\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.From2.resources
+F:\Digital Diary\bin\Debug\Digital Diary.exe.config
+F:\Digital Diary\bin\Debug\Digital Diary.exe
+F:\Digital Diary\bin\Debug\Digital Diary.pdb
+F:\Digital Diary\obj\Debug\Digital Diary.csprojAssemblyReference.cache
+F:\Digital Diary\obj\Debug\Digital_Diary.Form1.resources
+F:\Digital Diary\obj\Debug\Digital_Diary.From2.resources
+F:\Digital Diary\obj\Debug\Digital_Diary.Properties.Resources.resources
+F:\Digital Diary\obj\Debug\Digital Diary.csproj.GenerateResource.cache
+F:\Digital Diary\obj\Debug\Digital Diary.csproj.CoreCompileInputs.cache
+F:\Digital Diary\obj\Debug\Digital Diary.exe
+F:\Digital Diary\obj\Debug\Digital Diary.pdb
